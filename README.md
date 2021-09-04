@@ -53,8 +53,8 @@ Analyzed Dataset is a *multi-variate Time Series one* that contains records from
 ## REFERENCES
 - [[1]](https://datahub.io/core/s-and-p-500#data-cli) Standard and Poor's (S&P) 500 Index Data
 - [[2]](https://facebookresearch.github.io/Kats/) Facebook Kats, one stop shop for time series analysis in Python
-- [[3]](https://www.researchgate.net/publication/323671215_Kalman_filter_based_time_series_prediction_of_cake_factory_daily_sale) Wu et. al. - Kalman Filter Based Time Series Prediction ofCake Factory Daily Sale
-- [[4]](https://peerj.com/preprints/3190.pdf) Taylor et. al. - Forecasting at Scale
+- [[3]](https://www.researchgate.net/publication/323671215_Kalman_filter_based_time_series_prediction_of_cake_factory_daily_sale) Wu et. al. - Kalman Filter Based Time Series Prediction of Cake Factory Daily Sale
+- [[4]](https://peerj.com/preprints/3190.pdf) Taylor et. al. (Facebook Research) - Forecasting at Scale
 
 ## AUTHOR
 - [@r-scalia](https://github.com/rscdev7) Rosario Scalia
