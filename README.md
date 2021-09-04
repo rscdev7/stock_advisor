@@ -32,7 +32,7 @@ Analyzed Dataset is a *multi-variate Time Series one* that contains records from
 > 5. **Kalman Filter**
 
 ------------------------------------------------------------------------------------------
-## STACK SOFTWARE - GENERAL
+## STACK SOFTWARE
 | **Component**        |
 | -----------      |
 | Python           |
@@ -46,7 +46,7 @@ Analyzed Dataset is a *multi-variate Time Series one* that contains records from
 | PyTorch          | 
 
 ------------------------------------------------------------------------------------------
-## ANALYSIS OUTCOMES
+## ANALYSIS INSIGHTS
 ![Alt -> Analysis 1](./demo/analysis_1.jpg)
 
 
@@ -56,5 +56,5 @@ Analyzed Dataset is a *multi-variate Time Series one* that contains records from
 - [[3]](https://www.researchgate.net/publication/323671215_Kalman_filter_based_time_series_prediction_of_cake_factory_daily_sale) Wu et. al. - Kalman Filter Based Time Series Prediction ofCake Factory Daily Sale
 - [[4]](https://peerj.com/preprints/3190.pdf) Taylor et. al. - Forecasting at Scale
 
-## AUTHORS
+## AUTHOR
 - [@r-scalia](https://github.com/rscdev7) Rosario Scalia
