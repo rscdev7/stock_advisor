@@ -16,7 +16,8 @@ Analyzed Dataset is a *multi-variate Time Series one* that contains records from
 
 ### *[DATASET]*
 > **DATASET SIZE**: 1,769 record
-> **FEATURES**:
+>
+> **FEATURES**
 > | **Date**        | **SP500**       | **Dividend**    | **Earnings**    | **Consumer Price** | **Long Interest Rate** | **Real Price**  | **Real Ernings** | **PE10**        | 
 > | ----------- | ----------- | ----------- | ----------- | -----------    | -----------        | ----------- | -----------  | ----------- |
 > | Date & Time      | Number       | Number       | Number       | Number          | Number              | Number       | Number        | Number       |
