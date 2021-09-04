@@ -8,7 +8,7 @@ This project aim to analyze *Standard & Poor's 500* historical data in order to:
 
 S&P 500 (Standard and Poor's 500) is a free-float, capitalization-weighted index of the top 500 publicly listed stocks in the US (top 500 by market cap).
 
-Analyzed Dataset is a *multi-variate Time Series one* that contains records from *01-1871* to *2018-04*.
+Analyzed Dataset is a *multi-variate Time Series one* that contains records from *1871-01* to *2018-04*.
 
 
 ## PROJECT CUES
@@ -27,9 +27,9 @@ Analyzed Dataset is a *multi-variate Time Series one* that contains records from
 ### *[ALGORITHMS]*
 > 1. **SARIMA**
 > 2. **Holt-Winters**
-> 3. **Prophet**
+> 3. **Facebook Prophet**
 > 4. **LSTM**
-> 5. **Kalman Filter**
+> 5. **Kalman Filtering**
 
 ------------------------------------------------------------------------------------------
 ## STACK SOFTWARE
