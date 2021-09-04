@@ -2,9 +2,9 @@
 ![Alt -> Project Logo](./img/project_logo.png)
 
 This project aim to analyze *Standard & Poor's 500* historical data in order to:
-1. Extract meaninful insights from data
+1. Extract meaningful insights from data
 2. Forecasting future S&P 500 Companies' Stocks Indexes 
-3. Extract useful features for a further analysis throught Machine Learning Algorithms.
+3. Extract useful features for a further analysis throught Machine Learning Algorithms
 
 S&P 500 (Standard and Poor's 500) is a free-float, capitalization-weighted index of the top 500 publicly listed stocks in the US (top 500 by market cap).
 
@@ -33,12 +33,13 @@ Analyzed Dataset is a *multi-variate Time Series one* that contains records from
 
 ------------------------------------------------------------------------------------------
 ## STACK SOFTWARE
-| **Component**        |
+| **Component**    |
 | -----------      |
 | Python           |
 | Jupyter Notebook |
 | Pandas           |
 | SciPy            |
+| StatsModels      |
 | Matplotlib       |
 | NumPy            |
 | Kats             |
