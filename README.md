@@ -50,9 +50,12 @@ Analyzed Dataset is a *multi-variate Time Series one* that contains records from
 
 
 ## REFERENCES
-- [[1]](https://datahub.io/core/s-and-p-500#data-cli) Standard and Poor's (S&P) 500 Index Data
-- [[2]](https://facebookresearch.github.io/Kats/) Facebook Kats, one stop shop for time series analysis in Python
+- [[1]](https://www.wiley.com/en-us/Time+Series+Analysis+and+Forecasting+by+Example-p-9780470540640) Bisgaard, Kulahci - Time Series Analysis and Forecasting by Example (First Edition)
+- [[2]](https://www.springer.com/gp/book/9783319298528) Brockwell, Davis - Introduction to Time Series and Forecasting (Third Edition)
 - [[3]](https://peerj.com/preprints/3190.pdf) Taylor et. al. (Facebook Research) - Forecasting at Scale
+- [[4]](https://datahub.io/core/s-and-p-500#data-cli) Standard and Poor's (S&P) 500 Index Data
+- [[5]](https://www.scipy.org/) SciPy, python-based ecosystem for mathematics, science, and engineering
+- [[6]](https://facebookresearch.github.io/Kats/) Kats, one stop shop for time series analysis in Python
 
 ## AUTHOR
 - [@r-scalia](https://github.com/rscdev7) Rosario Scalia
