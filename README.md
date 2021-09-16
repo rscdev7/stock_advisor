@@ -1,4 +1,4 @@
-# StockAdvisor
+# Stock Advisor
 ![Alt -> Project Logo](./img/project_logo.png)
 
 This project aim to analyze *Standard & Poor's 500* historical data in order to:
