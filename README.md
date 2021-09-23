@@ -27,7 +27,6 @@ Analyzed Dataset is a *multi-variate Time Series one* that contains records from
 > 1. **SARIMA**
 > 2. **Holt-Winters**
 > 3. **Facebook Prophet**
-> 4. **LSTM**
 
 ------------------------------------------------------------------------------------------
 ## STACK SOFTWARE
@@ -45,8 +44,6 @@ Analyzed Dataset is a *multi-variate Time Series one* that contains records from
 | PyTorch          | 
 
 ------------------------------------------------------------------------------------------
-## ANALYSIS INSIGHTS
-![Alt -> Analysis 1](./demo/analysis_1.jpg)
 
 
 ## REFERENCES
