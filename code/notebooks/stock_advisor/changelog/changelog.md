@@ -1,5 +1,8 @@
 # Stock Advisor
 
+> **v1.0.3**
+>	* Scritto capitolo introduttivo del progetto.
+
 > **v1.0.2**
 >	* Scrittura descrizione algoritmi SARIMA e Holt-Winters nella relazione.
 
