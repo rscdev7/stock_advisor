@@ -1,5 +1,8 @@
 # Stock Advisor
 
+> **2.0.0**
+>	* Scritto capitoli Modelli e Metodo di Valutazione.
+
 > **v1.0.3**
 >	* Scritto capitolo introduttivo del progetto.
 
