@@ -1,5 +1,8 @@
 # Stock Advisor
 
+> **3.0.0**
+>	* Terminata parte compilativa progetto
+
 > **2.0.0**
 >	* Scritto capitoli Modelli e Metodo di Valutazione.
 

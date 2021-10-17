@@ -17,9 +17,9 @@ Analyzed Dataset is a *multi-variate Time Series one* that contains records from
 > **DATASET SIZE**: 1,769 record
 >
 > **FEATURES**
-> | **Date**        | **SP500**       | **Dividend**    | **Earnings**    | **Consumer Price** | **Long Interest Rate** | **Real Price**  | **Real Ernings** | **PE10**        | 
-> | ----------- | ----------- | ----------- | ----------- | -----------    | -----------        | ----------- | -----------  | ----------- |
-> | Date      | Number       | Number       | Number       | Number          | Number              | Number       | Number        | Number       |
+> | **Date**        | **SP500**       | **Dividend**    | **Earnings**    | **Consumer Price Index** | **Long Interest Rate** | **Real Price** | **Real Dividend**  | **Real Earnings** | **PE10**        | 
+> | ----------- | ----------- | ----------- | ----------- | ----------- | -----------    | -----------        | ----------- | -----------  | ----------- |
+> | Date      | Number       | Number       | Number       | Number          | Number          | Number              | Number       | Number        | Number       |
 >
 > **DATASET YEAR BUILD**: 2018
 
