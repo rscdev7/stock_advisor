@@ -1,5 +1,9 @@
 # Stock Advisor
 
+> **3.1.0**
+>	* Modificato metodo di valutazione progetto
+>   * Modificati capitoli analisi esplorativa progetto
+
 > **3.0.0**
 >	* Terminata parte compilativa progetto
 
