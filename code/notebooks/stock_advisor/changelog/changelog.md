@@ -1,5 +1,10 @@
 # Stock Advisor
 
+> **3.2.0**
+>	* Aggiunta Analisi Stazionarietà7
+>   * Migliorata Analisi Decomposizione
+>   * Agggiunto Test X-Quadro 
+
 > **3.1.0**
 >	* Modificato metodo di valutazione progetto
 >   * Modificati capitoli analisi esplorativa progetto
