@@ -1,5 +1,8 @@
 # Stock Advisor
 
+> **4.1.0**
+>	* Migliorati Commenti Relazione.
+
 > **4.0.0**
 >	* Aggiunti esperimenti di Classificazione
 
