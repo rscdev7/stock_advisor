@@ -3,7 +3,7 @@
 
 This project aim to analyze *Standard & Poor's 500* historical data in order to:
 1. Extract meaningful insights from data
-2. Forecasting future S&P 500 Companies' Stocks Indexes 
+2. Forecast future S&P 500 Indexes 
 
 S&P 500 (Standard and Poor's 500) is a free-float, capitalization-weighted index of the top 500 publicly listed stocks in the US (top 500 by market cap).
 
