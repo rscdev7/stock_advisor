@@ -1,5 +1,8 @@
 # Stock Advisor
 
+> **4.0.0**
+>	* Aggiunti esperimenti di Classificazione
+
 > **3.2.0**
 >	* Aggiunta Analisi Stazionarietà7
 >   * Migliorata Analisi Decomposizione
